@@ -1,1 +1,1 @@
-# kct
+# Klaytn Compatible Token
